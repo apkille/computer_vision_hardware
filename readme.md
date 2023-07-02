@@ -1,5 +1,3 @@
-<img src="attachments/foam-icon.png" width=100 align="left">
-
 # Programming Hardware Platforms for Computer Vision
 
 **Organized Notes**
